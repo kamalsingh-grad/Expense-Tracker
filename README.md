@@ -129,5 +129,3 @@ Backend coverage includes: validation matrices, pagination boundaries & non-over
 ## Resume bullet
 
 > **Expense Tracker Application** · React.js, Node.js, Express.js, MongoDB — Built a full-stack expense tracker with a React.js dashboard and Node.js/Express.js REST APIs on MongoDB. Implemented CRUD for financial transactions and responsive data-visualisation with filtering and sorting.
-
-MIT © 2026 Aarav Sharma
